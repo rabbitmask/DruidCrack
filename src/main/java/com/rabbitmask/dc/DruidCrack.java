@@ -9,9 +9,9 @@ public class DruidCrack extends DruidPasswordCallback {
     public static void main(String[] args) {
 
         String banner = " ____          _   _ _____             _\n" +
-                "|    \\ ___ _ _|_|_| |     |___ ___ ___| |_\n" +
-                "|  |  |  _| | | | . |   --|  _| .'|  _| '_|\n" +
-                "|____/|_| |___|_|___|_____|_| |__,|___|_,_|";
+                        "|    \\ ___ _ _|_|_| |     |___ ___ ___| |_\n" +
+                        "|  |  |  _| | | | . |   --|  _| .'|  _| '_|\n" +
+                        "|____/|_| |___|_|___|_____|_| |__,|___|_,_|";
         System.out.println(banner);
 
         System.out.print("\t\tA Tiny Tools To DruidCrack | By RabbitMask\n");
